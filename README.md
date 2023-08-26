@@ -1,7 +1,7 @@
 # Flipcart-Homepage-Clone
 This repository houses a simplified version of the Flipkart e-commerce platform's homepage. The purpose of this project is to offer developers a foundational example of crafting a basic e-commerce homepage layout using contemporary web development tools and techniques.
 
-## Visit site live at [(Your site is live at https://syedamir5560.github.io/Flipcart-Homepage-Clone/ )]
+## [Visit this page live at] (https://syedamir5560.github.io/Flipcart-Homepage-Clone/)
 
 # Simple Flipkart Clone
 
